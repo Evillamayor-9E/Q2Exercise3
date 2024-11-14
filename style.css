@@ -1,0 +1,16 @@
+body {
+	background: #bee3db;
+	color: #faf9f9;
+}
+
+.container {
+	background-color: #586f7c;
+	font-family: "Titillium Web", serif;
+  	font-weight: 600;
+  	font-style: normal;
+}
+
+img {
+	width: 200px;
+	box-shadow: -20px 22px 50px -9px rgba(0,0,0,0.75);
+}
